@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/98
     wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44350#My-Miscellanies-Vol.-2--of-2-
 gutenberg_issued: '2013-12-05'
 gutenberg_type: Text
 identifiers:
